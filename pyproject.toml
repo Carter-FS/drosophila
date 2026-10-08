@@ -1,7 +1,7 @@
 [project]
 name = "drosophila"
 version = "0.1.0"
-description = "Add your description here"
+description = "Groundwork for a connectome-constrained decoder of the adult Drosophila brain, built on the FlyWire LIF model."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
